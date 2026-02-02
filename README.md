@@ -10,9 +10,13 @@ Each project demonstrates core ML concepts such as data preprocessing, model tra
 Q_Skill/
 │
 ├── Spam Mail Detector.ipynb
+
 ├── iris_dataset.ipynb
+
 ├── House Price Prediction/
+
 │ └── (House Price Prediction notebook & related files)
+
 └── README.md
 
 ---
