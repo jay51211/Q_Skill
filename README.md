@@ -9,6 +9,7 @@ Each project demonstrates core ML concepts such as data preprocessing, model tra
 
 Q_Skill/
 │
+
 ├── Spam Mail Detector.ipynb
 
 ├── iris_dataset.ipynb
